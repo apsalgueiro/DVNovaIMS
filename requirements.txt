@@ -9,9 +9,3 @@ pandas
 numpy
 plotly.express
 jupyter
-matplotlib
-seaborn
-xlrd
-openpyxl
-kaleido
-networkx
