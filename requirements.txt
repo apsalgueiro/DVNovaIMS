@@ -5,7 +5,6 @@ requests
 dash_renderer
 pandas
 numpy
-plotly.graph_objects
 plotly.io
 plotly.express
 dash_core_components
