@@ -1,0 +1,14 @@
+gunicorn
+plotly
+dash
+requests
+dash_renderer
+pandas
+numpy
+plotly.graph_objects
+plotly.io
+plotly.express
+dash_core_components
+dash_html_components
+dash.dependencies
+plotly.offline
