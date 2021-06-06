@@ -8,3 +8,10 @@ numpy
 plotly.express
 dash_core_components
 dash_html_components
+jupyter
+xlrd
+openpyxl
+plotly
+kaleido
+networkx
+pyexcel
