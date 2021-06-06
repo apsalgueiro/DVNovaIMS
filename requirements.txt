@@ -9,3 +9,4 @@ pandas
 numpy
 plotly.express
 jupyter
+PLotly.js
